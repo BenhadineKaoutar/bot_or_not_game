@@ -1,0 +1,218 @@
+{
+  "915f8caa-a535-4683-90f2-23d4bcba3f50": {
+    "id": "915f8caa-a535-4683-90f2-23d4bcba3f50",
+    "filename": "banana-real.jpg",
+    "storedFilename": "915f8caa-a535-4683-90f2-23d4bcba3f50.jpg",
+    "category": "object",
+    "difficulty_level": 3,
+    "is_ai_generated": false,
+    "source_info": "Admin panel upload",
+    "upload_date": "2025-09-28T23:29:34.136Z",
+    "quality_score": 7,
+    "usage_count": 46,
+    "file_size": 4876,
+    "dimensions": {
+      "width": 183,
+      "height": 275
+    },
+    "tags": []
+  },
+  "14ed38b0-8ff2-4c4d-86b5-e02ab48b465b": {
+    "id": "14ed38b0-8ff2-4c4d-86b5-e02ab48b465b",
+    "filename": "leaf-real.jpg",
+    "storedFilename": "14ed38b0-8ff2-4c4d-86b5-e02ab48b465b.jpg",
+    "category": "object",
+    "difficulty_level": 3,
+    "is_ai_generated": false,
+    "source_info": "Admin panel upload",
+    "upload_date": "2025-09-28T23:29:34.438Z",
+    "quality_score": 7,
+    "usage_count": 16,
+    "file_size": 11937,
+    "dimensions": {
+      "width": 300,
+      "height": 200
+    },
+    "tags": []
+  },
+  "4297a881-cefb-4cb6-b7ae-0cb850809fbb": {
+    "id": "4297a881-cefb-4cb6-b7ae-0cb850809fbb",
+    "filename": "leaf-ai.jpg",
+    "storedFilename": "4297a881-cefb-4cb6-b7ae-0cb850809fbb.jpg",
+    "category": "object",
+    "difficulty_level": 3,
+    "is_ai_generated": true,
+    "source_info": "Admin panel upload",
+    "upload_date": "2025-09-28T23:30:00.092Z",
+    "quality_score": 7,
+    "usage_count": 26,
+    "file_size": 46806,
+    "dimensions": {
+      "width": 771,
+      "height": 600
+    },
+    "tags": []
+  },
+  "525130d2-5b30-4b62-bfe1-4167b0de01fb": {
+    "id": "525130d2-5b30-4b62-bfe1-4167b0de01fb",
+    "filename": "banana-ai.jpg",
+    "storedFilename": "525130d2-5b30-4b62-bfe1-4167b0de01fb.jpg",
+    "category": "object",
+    "difficulty_level": 3,
+    "is_ai_generated": true,
+    "source_info": "Admin panel upload",
+    "upload_date": "2025-09-28T23:35:16.893Z",
+    "quality_score": 7,
+    "usage_count": 26,
+    "file_size": 33470,
+    "dimensions": {
+      "width": 771,
+      "height": 600
+    },
+    "tags": []
+  },
+  "05a92eb4-e990-4ad1-8137-dd7bc39abf80": {
+    "id": "05a92eb4-e990-4ad1-8137-dd7bc39abf80",
+    "filename": "apple-real.jpg",
+    "storedFilename": "05a92eb4-e990-4ad1-8137-dd7bc39abf80.jpg",
+    "category": "object",
+    "difficulty_level": 3,
+    "is_ai_generated": false,
+    "source_info": "Admin panel upload",
+    "upload_date": "2025-09-28T23:35:50.468Z",
+    "quality_score": 7,
+    "usage_count": 14,
+    "file_size": 7321,
+    "dimensions": {
+      "width": 236,
+      "height": 214
+    },
+    "tags": []
+  },
+  "070c0242-58ac-4292-bcb2-79883cb7d73b": {
+    "id": "070c0242-58ac-4292-bcb2-79883cb7d73b",
+    "filename": "apple-ai.jpg",
+    "storedFilename": "070c0242-58ac-4292-bcb2-79883cb7d73b.jpg",
+    "category": "object",
+    "difficulty_level": 3,
+    "is_ai_generated": true,
+    "source_info": "Admin panel upload",
+    "upload_date": "2025-09-28T23:36:08.520Z",
+    "quality_score": 7,
+    "usage_count": 29,
+    "file_size": 57011,
+    "dimensions": {
+      "width": 771,
+      "height": 600
+    },
+    "tags": []
+  },
+  "0319cdf0-7b40-4e31-893f-058e3def22e9": {
+    "id": "0319cdf0-7b40-4e31-893f-058e3def22e9",
+    "filename": "leaf-real.jpg",
+    "storedFilename": "0319cdf0-7b40-4e31-893f-058e3def22e9.jpg",
+    "category": "object",
+    "difficulty_level": 3,
+    "is_ai_generated": false,
+    "source_info": "Admin panel upload",
+    "upload_date": "2025-09-28T23:49:20.895Z",
+    "quality_score": 7,
+    "usage_count": 15,
+    "file_size": 11937,
+    "dimensions": {
+      "width": 300,
+      "height": 200
+    },
+    "tags": []
+  },
+  "9d94a05f-018c-49f3-9f8e-852adc04c5b8": {
+    "id": "9d94a05f-018c-49f3-9f8e-852adc04c5b8",
+    "filename": "leaf-ai.jpg",
+    "storedFilename": "9d94a05f-018c-49f3-9f8e-852adc04c5b8.jpg",
+    "category": "object",
+    "difficulty_level": 3,
+    "is_ai_generated": true,
+    "source_info": "Admin panel upload",
+    "upload_date": "2025-09-28T23:52:00.682Z",
+    "quality_score": 7,
+    "usage_count": 10,
+    "file_size": 46806,
+    "dimensions": {
+      "width": 771,
+      "height": 600
+    },
+    "tags": []
+  },
+  "ea29ec0e-c35d-4988-ac93-aae675279b40": {
+    "id": "ea29ec0e-c35d-4988-ac93-aae675279b40",
+    "filename": "photorealistic-view-beautiful-hummingbird-its-natural-habitat.jpg",
+    "storedFilename": "ea29ec0e-c35d-4988-ac93-aae675279b40.jpg",
+    "category": "object",
+    "difficulty_level": 5,
+    "is_ai_generated": true,
+    "source_info": "Admin panel upload",
+    "upload_date": "2025-09-29T00:10:46.576Z",
+    "quality_score": 7,
+    "usage_count": 9,
+    "file_size": 46637,
+    "dimensions": {
+      "width": 800,
+      "height": 448
+    },
+    "tags": []
+  },
+  "0b6cfec7-258b-4357-a517-813bfa21b043": {
+    "id": "0b6cfec7-258b-4357-a517-813bfa21b043",
+    "filename": "pexels-couleur-2317904.jpg",
+    "storedFilename": "0b6cfec7-258b-4357-a517-813bfa21b043.jpg",
+    "category": "object",
+    "difficulty_level": 5,
+    "is_ai_generated": false,
+    "source_info": "Admin panel upload",
+    "upload_date": "2025-09-29T00:11:34.356Z",
+    "quality_score": 10,
+    "usage_count": 10,
+    "file_size": 60840,
+    "dimensions": {
+      "width": 800,
+      "height": 533
+    },
+    "tags": []
+  },
+  "a6597323-a20c-4ac6-b4ec-69ecdc0227cf": {
+    "id": "a6597323-a20c-4ac6-b4ec-69ecdc0227cf",
+    "filename": "pexels-pixabay-414181.jpg",
+    "storedFilename": "a6597323-a20c-4ac6-b4ec-69ecdc0227cf.jpg",
+    "category": "object",
+    "difficulty_level": 5,
+    "is_ai_generated": false,
+    "source_info": "Admin panel upload",
+    "upload_date": "2025-09-29T00:40:35.214Z",
+    "quality_score": 7,
+    "usage_count": 0,
+    "file_size": 48319,
+    "dimensions": {
+      "width": 800,
+      "height": 533
+    },
+    "tags": []
+  },
+  "b4b38541-a6cf-4840-ab26-66eaaaa13892": {
+    "id": "b4b38541-a6cf-4840-ab26-66eaaaa13892",
+    "filename": "pigeon-natural-environment.jpg",
+    "storedFilename": "b4b38541-a6cf-4840-ab26-66eaaaa13892.jpg",
+    "category": "object",
+    "difficulty_level": 5,
+    "is_ai_generated": true,
+    "source_info": "Admin panel upload",
+    "upload_date": "2025-09-29T00:43:15.380Z",
+    "quality_score": 10,
+    "usage_count": 1,
+    "file_size": 47783,
+    "dimensions": {
+      "width": 800,
+      "height": 533
+    },
+    "tags": []
+  }
+}

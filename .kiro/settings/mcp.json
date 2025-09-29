@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "kendo-react-assistant": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "@progress/kendo-react-mcp@latest"],
+      "env": {
+        "TELERIK_LICENSE_PATH": "C:/Users/HP/Desktop/hackathon dev/vite-project/telerik-license.txt"
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "bot-or-not",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev:backend": "node --import tsx backend/src/app.ts",
+    "dev:both": "concurrently \"npm run dev\" \"npm run dev:backend\"",
+    "build": "tsc && vite build",
+    "start": "node --import tsx backend/src/app.ts",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.13",
+    "@types/react-dom": "^19.1.9",
+    "@vitejs/plugin-react": "^5.0.3",
+    "typescript": "~5.8.3",
+    "vite": "^7.1.7"
+  },
+  "dependencies": {
+    "@progress/kendo-react-buttons": "^12.0.2",
+    "@progress/kendo-react-charts": "^12.0.2",
+    "@progress/kendo-react-dialogs": "^12.0.2",
+    "@progress/kendo-react-dropdowns": "^12.0.2",
+    "@progress/kendo-react-form": "^12.0.2",
+    "@progress/kendo-react-grid": "^12.0.2",
+    "@progress/kendo-react-indicators": "^12.0.2",
+    "@progress/kendo-react-inputs": "^12.0.2",
+    "@progress/kendo-react-labels": "^12.0.2",
+    "@progress/kendo-react-layout": "^12.0.2",
+    "@progress/kendo-react-notification": "^12.0.2",
+    "@progress/kendo-react-progressbars": "^12.0.2",
+    "@progress/kendo-react-upload": "^12.0.2",
+    "@progress/kendo-svg-icons": "^4.5.0",
+    "@progress/kendo-theme-default": "^12.0.1",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-router-dom": "^7.9.2",
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "helmet": "^7.1.0",
+    "compression": "^1.7.4",
+    "express-rate-limit": "^7.1.5",
+    "tsx": "^4.7.0"
+  }
+}
