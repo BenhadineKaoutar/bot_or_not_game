@@ -3,6 +3,9 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+ "workspaces": [
+    "backend"
+  ],
   "scripts": {
     "dev": "vite",
     "dev:backend": "node --import tsx backend/src/app.ts",
